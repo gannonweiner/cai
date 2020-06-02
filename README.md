@@ -10,10 +10,6 @@ The labs are based upon a node.js application that allows for voting on the Just
 
 > Note: Since we are working on a jumpbox, note that Copy and Paste are a bit different when working in the terminal. You can use Shift+Ctrl+C for Copy and Shift+Ctrl+V for Paste when working in the terminal. Outside of the terminal Copy and Paste behaves as expected using Ctrl+C and Ctrl+V. 
 
-## Contributing
-
-This project is a fork of our [Azure GBB Hackfest](https://github.com/Azure/blackbelt-aks-hackfest) workshop with necessary modifications and additions to suit the BootCamp. We as well as the original project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
-
 ## License
 
 This software is covered under the MIT license. You can read the license [here][license].
