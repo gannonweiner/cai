@@ -1,6 +1,6 @@
 # WorkShopPLUS - Containers As Infrastructure
 
-_Delivering modern cloud native applications with ​open source technologies on Azure​_
+
 
 ## Overview
 
